@@ -1,0 +1,5 @@
+flask==2.3.3
+google-adk==0.0.5
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==2.2.2
