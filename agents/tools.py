@@ -6,7 +6,7 @@ load_dotenv()
 
 HF_TOKEN = os.getenv("HF_TOKEN")
 
-HF_TOKEN = "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"  # your key here
+HF_TOKEN = "YOUR_HF_TOKEN_HERE" # your key here
 HF_URL = "https://api-inference.huggingface.co/models/microsoft/Phi-3-mini-4k-instruct"
 
 def call_hf_llm(prompt):
